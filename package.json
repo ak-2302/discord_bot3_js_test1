@@ -1,0 +1,24 @@
+{
+  "name": "discord_bot3_js_test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak-2302/discord_bot3_js_test1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak-2302/discord_bot3_js_test1/issues"
+  },
+  "homepage": "https://github.com/ak-2302/discord_bot3_js_test1#readme"
+}
